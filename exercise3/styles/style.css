@@ -1,0 +1,190 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+
+#wrapper {
+    width: 100%;
+    height:1100px;
+    background-image: url('../images/bg.jpg');
+}
+
+#wrapper #container {
+    width: 680px;
+    height: 947px;
+    background-image: url('../images/bgcontainer.jpg');
+    margin: auto;
+}
+
+#wrapper #container #menu {
+    width: 632px;
+    height: 95px;
+    background-image: url('../images/bgcontent.gif');
+    margin: auto;
+}
+
+#wrapper #container #menu ul {
+    list-style-type: none;
+    padding-top: 20px;
+    margin-left: 85px;
+}
+
+#wrapper #container #menu ul li {
+    margin: 11px;
+    float: left;  
+}
+
+#wrapper #container #menu ul li a {
+    font-size: 15px;
+    color: brown;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    height: 79px;
+    text-align: center;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+
+#wrapper #container #menu ul li a:hover {
+    color: coral;
+}
+
+#wrapper #container #top_image img {
+    margin-left: 115px;
+}
+
+#wrapper #container #content {
+    min-height: 800px;
+    width: 632px;
+}
+
+#wrapper #container #content #p1 h1 {
+    margin-top: 20px;
+    color: brown;
+}
+
+#wrapper #container #content #p1 h1:first-letter {
+    display: block;
+    float: left;
+    margin-left: 35px;
+    color: brown;
+    font-size: 2.8em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#wrapper #container #content #p1 h2 {
+    font-size: 11px;
+    color: brown;
+}
+
+#wrapper #container #content #p1 p {
+    text-align: justify;
+    width: 600px;
+    margin-left: 40px;
+    margin-top: 10px;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#wrapper #container #content #p2 img {
+    margin-left: 40px;
+    margin-right: 10px;
+    border: 2px dashed brown;
+    float: left;
+}
+
+#wrapper #container #content #p2 p {
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: justify;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#wrapper #container #content .divider img {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+#wrapper #container #content #content-bottom h1:first-letter {
+    float: left;
+    margin-left: 35px;
+    color: brown;
+    font-size: 2.8em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#wrapper #container #content #content-bottom h1 {
+    color: brown;
+    margin-top:20px;
+}
+
+#wrapper #container #content #content-bottom h2 {
+    font-size: 11px;
+    color: brown;
+}
+
+#wrapper #container #content #content-bottom p {
+    text-align: justify;
+    width: 590px;
+    margin-left: 40px;
+    margin-top: 10px;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#wrapper #container #content #kutip1 img {
+    float: left;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: -5px;
+}
+
+#wrapper #container #content #kutip1 p {
+    margin-top: 30px;
+    color: brown;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#wrapper #container #content .p3 {
+    margin-left: 60px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+#wrapper #container #content #kutip2 img {
+    float: left;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: -5px;
+}
+
+#wrapper #container #content #kutip2 p {
+    margin-top: 30px;
+    color: brown;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#wrapper #container #content #footer p {
+    width: 632px;
+    margin-left: 290px;
+    margin-top: 55px;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11px;
+}
+
+#wrapper #container #content #footer img {
+    width: 632px;
+    height: 41px;
+    margin-left: 24px;
+    margin-top: -30px;
+}

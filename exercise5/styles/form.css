@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#form input[type=text], input[type=password] {
+	width: 300px;
+}
+
+#form textarea {
+	width: 300px;
+	height: 150px;
+}
+
+#form input[type=submit], input[type=reset] {
+	padding: 5px;
+}
